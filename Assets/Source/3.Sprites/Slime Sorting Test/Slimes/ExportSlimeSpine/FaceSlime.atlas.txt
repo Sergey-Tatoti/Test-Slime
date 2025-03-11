@@ -1,0 +1,14 @@
+FaceSlime.png
+size:62,62
+filter:Linear,Linear
+pma:true
+image/Eye2
+bounds:31,39,29,21
+image/L
+bounds:2,34,27,26
+image/R
+bounds:2,34,27,26
+image/mouth
+bounds:2,16,27,16
+image/mouth2
+bounds:31,18,16,19

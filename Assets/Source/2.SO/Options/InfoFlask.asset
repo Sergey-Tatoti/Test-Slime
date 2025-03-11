@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5deb777aaf321634da0c08d0134c51e3, type: 3}
+  m_Name: InfoFlask
+  m_EditorClassIdentifier: 
+  _typesSlimes: 00000000010000000200000003000000
+  _countsScore: 050000000a0000000f00000014000000
+  _spritesFull:
+  - {fileID: 21300000, guid: 174317483ee69364385836b31099fd12, type: 3}
+  - {fileID: 21300000, guid: 14d7c4c5e06c7394b8086092f9126393, type: 3}
+  - {fileID: 21300000, guid: abd71623ce7e3b548a186c8be4ae82f7, type: 3}
+  - {fileID: 21300000, guid: 16dbe69e74f8c9248bf799c56c543089, type: 3}
+  _spritesShake:
+  - {fileID: 21300000, guid: f9290b8a6168da74283f3a5fb95168b2, type: 3}
+  - {fileID: 21300000, guid: b0864483414034b4f9e526a31c4da90e, type: 3}
+  - {fileID: 21300000, guid: 976fb6b068cad3346bb693d66899af79, type: 3}
+  - {fileID: 21300000, guid: 4be90a1568c9c1f42a40b2e426101c81, type: 3}
